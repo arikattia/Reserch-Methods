@@ -1,92 +1,30 @@
----
-layout: page
-title: About
-permalink: /about/
----
+**ARIE ATTIA** 
 
-I am futur PhD student in marine ecology and physiology science in PutnamLAb. My project will be based on Genetic, functional and reproductive diversity of Pocillopora in the lagoon of Mo’orea. 
- 
+Manager in the field of Engineering | 
 
-### More Information
+Machine Engineering |
 
-https://pierrickharnay.github.io/PierrickHarnay_Notebook/
+ **Languages**
 
-### Contact me
+Hebrew: Mother tongue English: Fluent 
 
-[pierrick.harnay@gmail.com](mailto:Pierrick_harnay@uri.com)
+**PROFILE EDUCATION EXPERIENCE**
+
+An ambitious Machine Engineer, the a multi-disiplinary outlook, able to connect organizational activity to the engineering and technological needs. Served as one of the head engineers in the Israeli Navy, a deputy commander of the shipyard and an Israeli envoy in the International project Saar 6 in Germany. Well-experienced in complex operational and organizational management and leading engineering and technology teams to personal and professional excellency. Passionate to lead and be partner to the technological development in the marine field and contribute value to society.
 
 
-## <center>PIERRICK E. HARNAY</center><center>Department of Biological Sciences</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>### EDUCATION2021-2022 | **Université Paris Sorbonne** | **École Pratique des Hautes Études (EPHE)**   
-	- Master degree 2  
-		- Biodiversity and Environment, Integrative Master of 		  Global Health and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier), and CRIOBE
-		  (Perpignan France and Mo’orea French Polynesia)  
-		  
-2019-2020 | **Université Paris Sorbonne** | **EPHE**   
-	- Master degree 1   
-		- Biodiversity and Environment, Integrative Master of Global Health 		  and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier, Dinard), 		  and CRIOBE (Perpignan)  
-		
-2018-2019 | **Université de Lorraine** | **Institut Universitaire Technologique Nancy- Brabois**  
-	- Professional Bachelor degree   
-		- Continental Aquaculture and Aquariology with honours   
-		
-2016-2017 | **Université de Montpellier** | **Continuing Education Department**   
-	- Technical Specialist Diploma (DU)  
-		- Aquaculture   
-		
-2013-2016 | **Lycée Jeanne Antide**   
-*2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
-*2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
-### Professional Experience
-2022 | ***Universiy of Rhode Island - Rhode Island, USA***
-		- Supervisors - Dr. Hollie Putnam
-	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
-	- Genetic, functional and reproductive diversity of *Pocillopora sp.* in 	  the lagoon of Mo’orea.
 
-2021-2022 | ***Oregon State University – Tetiaroa, French Polynesia***
-		- Research Assistant - *Impacts of rat eradication on coral reef health*
-		- Supervisors - Drs. Rebecca Vega Thurber Hannah Epstein
-	- Coral surveys via transect, coral and water sampling for bacterial 	  analysis, multivariate and generalized linear statistical modeling in 	  R
-	
-2020-2021 | ***Tetiaroa Society– Tetiaroa, French Polynesia***
-		- Ranger 
-	- Marine Protected Area and Ecostation security patrols, fish 	  identification, field technical support to researchers (Lancaster 	  University, Oregon University) including spearfishing, snorkeling, 	  photogrammetry, drone piloting, 3D modeling, and rat trapping, 	  localization and eradication
+**EDUCATION**
 
-2019-2020 | ***Centre de Recherches Insulaires et Observatoires de l’Environnement (CRIOBE) Mo’orea French Polynesia***   
-	*Effects of coral bleaching on coral reef cover and composition*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral surveys via transect, coral photography, coral identification 	  and cover estimates, bleaching quantification, multivariate statistics 	  in R   
-	*Effects of ocean acidification on coral growth and metabolism*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- 3D scanning for volume, buoyant weight for bulk calcification, 	  Firesting Pyroscience oxygen optode respirometry   
-	*Effects of size of microfragmentation on coral growth*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral fragment propagation of 10 species in the genera Acropora, 	  Montipora, Pocillopora, Porites, and Cyphastrea   
+M.A in International Relations | Haifa University B.Sc in Machine Engineering | Afeka College of Engineering Courses Executive management and Director’s course | IDF, Glilot Navy Officer Course
 
-2017 | ***Recif at Home***   
-	Coral Farmer   
-	- Supervisors – Mr. Boris Rota   
-	- Coral fragmentation, coral husbandry, coral health, species selection   
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-- Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
-- Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
-- Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
-- Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	   ### SCHOLARSHIPS AND AWARDS
-- Master degree 1 and 2 Awarded with Honors   
-- Scholarships for academic excellence are not given in France, but are income based   
-- Technical Specialist Diploma (DU) Awarded with Honors   
-### TEACHING AND EDUCATION
-- Université de Lorraine 
-	- Coral Reef Informational Presentations to Bachelor students   
-	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   ### CONFERENCE
-- Benthic Ecology Meeting - NH, Portsmouth, USA 
-	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
+**EXPERIENCE**
 
-### SKILLS 
-- PADI Advanced Open Water SCUBA Diving
-- Permis Mer – French Boating License for Coastal Waters
-- Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+Chief Engineer and Deputy Commander of the Naval Shipyard, Lieutenant Colonel | 2022–present o Manage and lead the professional development of a multidisciplinary team in the field of engineering consisting of around 300 employees. o Management of the Navy's main chemistry and materials laboratory. o Direct the chemistry and resources lab; involving failure investigations and conducting research and engineering work. o Spearhead engineering projects involving the repair and maintenance of hightechnology vessels. o Develop innovative products suitable for the operational challenges in the Navy, from initial planning stages to final implementation. o Manage and plan the budget worth several million shekels and the distribution of the shipyard's resources. o Lead and direct the engineering design of all vessels in the Navy. o Identify innovative technologies and introduce robots that improve shipyard performance, in conjunction with the development of automation processes (CNC machines). o Manage the safety at the shipyard and develop employee safety procedures to eradicate incidents. o Collaborate with foreign entities and companies from Europe and the United States. Head of the Machinery Branch - Project Saar 6, and Head of the Technical Delegation in Germany - Navy (Lieutenant Colonel) | 2019-2021 o Israel's official envoy in the development of a new and advanced ship in cooperation with a technological company in Germany (with a team of two engineers). o Development of the platform and design of an innovative ship, leading the design and development process with entities in Germany. o Development of technologies adapted to the needs and challenges of the Israeli Navy.
+
+Head of Propulsion and Engine Systems Section, Naval Staff, Major | 2018-2019 o
+
+Led and managed the professional development of the senior engineer officers. o Professional authority and manager of engines and propulsion systems in the Navy. o Standardized the development, maintenance and detection of innovative spare parts and components for the entire Navy. o Responsible for the characterization and planning of the new production line of ships in technology companies around the world. o Conducting constant research on innovative technologies and components, implementing and upgrading advanced operational systems. o Leading complex procurement processes with various suppliers around the world.
+
+Commander of the mechanical workshop, Navy Shipyard, Major | 2016-2018 o Led and managed the professional development of technical teams (120 employees). o Authority responsible for the vessel at the engineering and technological level. Platoon Commander of Classified Vessels, Shayetet 13, Navy | 2014-2016 o Directed and led the professional aspects of a multidisciplinary team. Machine Engineering Studies | 2010-2014 Navy Officer – Platoon Officer, Navy, Lieutenant | 2007-2010
+
